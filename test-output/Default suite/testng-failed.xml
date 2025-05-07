@@ -7,7 +7,7 @@
         <methods>
           <include name="MySetup"/>
           <include name="MyAfterTest"/>
-          <include name="ReadFromDatabase"/>
+          <include name="InsertToRowFromDatabase"/>
         </methods>
       </class> <!-- DataBaseTesting.DataBaseTesting.AppTest -->
     </classes>
